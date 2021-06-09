@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887299027593",
+    "firebase_url": "https://testlogin-374dd-default-rtdb.firebaseio.com",
+    "project_id": "testlogin-374dd",
+    "storage_bucket": "testlogin-374dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887299027593:android:365f52fa6acb7882358c58",
+        "android_client_info": {
+          "package_name": "nacc.sergey.testlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887299027593-i15stnt19t7tubv2nrt09p2pklb4i1i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgg0XJbbEpWIfhmwYRCGZMrXz_pw1iuxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887299027593-i15stnt19t7tubv2nrt09p2pklb4i1i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
