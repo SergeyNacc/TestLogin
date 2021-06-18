@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">TestLogin</string>
-    <string name="login_phone">Введите почту</string>
-    <string name="login_mail">Введите пароль</string>
-    <string name="login_button">ВОЙТИ</string>
+    <string name="hint_email">Введите почту</string>
+    <string name="hint_password">Введите пароль</string>
+    <string name="hint_name">Ваше имя</string>
+    <string name="login_button">Регистрация</string>
 </resources>
